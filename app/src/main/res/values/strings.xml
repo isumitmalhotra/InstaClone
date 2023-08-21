@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CGC Connect</string>
+    <string name="edit">Edit Profile</string>
+    <string name="signout">Sign Out</string>
+</resources>
